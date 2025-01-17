@@ -15,6 +15,9 @@ void insert(int x){
     head= newNode;
 
 }
+
+
+
 void show(){
     Node *temp=head;
     cout<<"\nElement pf linkedlist\n";
