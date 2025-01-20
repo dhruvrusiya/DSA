@@ -21,6 +21,7 @@ void insertAE(int x){
     newNode->data=x;
     newNode->next=NULL;
     
+    
     Node *temp=head;
 
 
