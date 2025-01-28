@@ -37,5 +37,6 @@ int main(){
     insertaf(11);
     insertaf(12);
     insertae(25);
+    
     return 0;
 }
